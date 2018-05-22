@@ -1,5 +1,5 @@
 {
-    "name": "croogo/core",
+    "name": "funayaki/core",
     "description": "Croogo Core Plugin",
     "require": {
         "cakephp/cakephp": "^3.5.5"
